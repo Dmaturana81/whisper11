@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:11:14.400 --> 00:11:18.040
+ so this model just took the text as input
+
+00:11:18.040 --> 00:11:21.520
+ and created this text as output.
+
+00:11:21.520 --> 00:11:25.880
+ And so you can see, again, deep learning models,
+
+00:11:25.880 --> 00:11:29.400
+ doing things which I think very few, if any of us would
+
+00:11:29.400 --> 00:11:32.040
+ have believed, would be maybe possible to do

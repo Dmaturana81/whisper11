@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:02:13.800 --> 01:02:16.640
+ And then it says, OK, well, maybe let's start playing
+
+01:02:16.640 --> 01:02:18.560
+ this music for you.
+
+01:02:18.560 --> 01:02:21.480
+ And that's how it works, a user's collaborative filtering.
+
+01:02:21.480 --> 01:02:26.960
+ So we can create a collaborative filtering data
+
+01:02:26.960 --> 01:02:29.880
+ loaders in exactly the same way that we're used to
+
+01:02:29.880 --> 01:02:33.640
+ by downloading and decompressing some data,

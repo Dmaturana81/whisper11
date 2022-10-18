@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:43:59.760 --> 00:44:01.880
+ you need to know about if you're going to know
+
+00:44:01.880 --> 00:44:04.600
+ how to use different kinds of data sets.
+
+00:44:04.600 --> 00:44:07.240
+ And so these are all of the things, basically,
+
+00:44:07.240 --> 00:44:08.680
+ that you'll be providing.
+
+00:44:08.680 --> 00:44:10.960
+ And so what we did when we designed the data block
+
+00:44:10.960 --> 00:44:15.960
+ was we actually looked and said, OK, over hundreds

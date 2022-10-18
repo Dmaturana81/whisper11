@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:41:12.920 --> 00:41:17.520
+ One other fast thing I think I'm using here is resize images.
+
+00:41:17.520 --> 00:41:20.520
+ You generally will find that for computer vision algorithms,
+
+00:41:20.520 --> 00:41:23.240
+ you don't need particularly big images.
+
+00:41:23.240 --> 00:41:27.880
+ So I'm resizing these to a maximum size length of 400,
+
+00:41:27.880 --> 00:41:30.520
+ because it's actually much faster.

@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:07:42.080 --> 01:07:51.520
+ And RISE is a really nice way to do slides in notebooks.
+
+01:07:51.520 --> 01:07:51.960
+ All right.
+
+01:07:55.080 --> 01:08:00.640
+ So what can deep learning do at present?

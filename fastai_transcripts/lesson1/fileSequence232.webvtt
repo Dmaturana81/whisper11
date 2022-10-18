@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:57:58.600 --> 00:58:02.320
+ doing segmentation or object recognition.
+
+00:58:02.320 --> 00:58:04.120
+ And then the next steps are pretty much the same.
+
+00:58:04.120 --> 00:58:05.640
+ We create a learner.
+
+00:58:05.640 --> 00:58:07.960
+ The segmentation, we create something called a unit learner,
+
+00:58:07.960 --> 00:58:09.680
+ which we'll learn about later.
+
+00:58:09.680 --> 00:58:12.880
+ And then again, we call fine tune.
+
+00:58:12.880 --> 00:58:15.040
+ So that is it.

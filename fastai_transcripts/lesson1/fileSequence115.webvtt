@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:28:42.680 --> 00:28:46.280
+ bird recognizer image model, we didn't need lots of math.
+
+00:28:46.280 --> 00:28:47.960
+ There wasn't any.
+
+00:28:47.960 --> 00:28:49.200
+ We didn't need lots of data.
+
+00:28:49.200 --> 00:28:50.600
+ We had 200 pictures.
+
+00:28:50.600 --> 00:28:52.640
+ We didn't need lots of expensive computers.
+
+00:28:52.640 --> 00:28:55.040
+ We just used my laptop.
+
+00:28:55.040 --> 00:28:58.680
+ This is generally the case for the vast majority
+
+00:28:58.680 --> 00:29:03.080
+ of deep learning that you'll need in real life.

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:52:14.160 --> 00:52:18.760
+ And they then made those weights available,
+
+00:52:18.760 --> 00:52:20.720
+ those parameters available on the internet
+
+00:52:20.720 --> 00:52:22.760
+ for anybody to download.
+
+00:52:22.760 --> 00:52:27.760
+ By default, on FastAI, when you ask for a model,
+
+00:52:27.760 --> 00:52:30.440
+ we will download those weights for you

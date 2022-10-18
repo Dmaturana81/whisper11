@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:04:42.480 --> 00:04:46.120
+ But a data block gives fast AI, the library,
+
+00:04:46.120 --> 00:04:48.640
+ all the information it needs to create a computer vision
+
+00:04:48.640 --> 00:04:49.320
+ model.
+
+00:04:49.320 --> 00:04:50.640
+ And so in this case, we're basically
+
+00:04:50.640 --> 00:04:54.360
+ telling it, get all the image files that we just downloaded.
+
+00:04:54.360 --> 00:04:56.440
+ And then we say, show me a few, up to six.
+
+00:04:56.440 --> 00:04:57.120
+ And let's see.
+
+00:04:57.120 --> 00:05:00.200
+ So we've got some birds, forest, bird, bird, forest.

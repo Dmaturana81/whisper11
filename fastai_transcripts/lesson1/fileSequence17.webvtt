@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:04:14.320 --> 00:04:16.560
+ And if you try and train a model with broken images,
+
+00:04:16.560 --> 00:04:18.240
+ it will not work.
+
+00:04:18.240 --> 00:04:21.560
+ So here's something which just verifies each image and unlinks.
+
+00:04:21.560 --> 00:04:25.280
+ So it's the ones that don't work.
+
+00:04:25.280 --> 00:04:30.480
+ OK, so now we can create what's called a data block.

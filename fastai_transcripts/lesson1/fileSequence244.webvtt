@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:00:58.880 --> 01:01:02.240
+ So that's why it generally doesn't make too much sense
+
+01:01:02.240 --> 01:01:03.960
+ to fine tune a tabular model.
+
+01:01:03.960 --> 01:01:06.640
+ So instead, you just fit.
+
+01:01:06.640 --> 01:01:09.280
+ So there is one difference there.
+
+01:01:09.280 --> 01:01:12.600
+ I'll show another example.
+
+01:01:12.600 --> 01:01:13.960
+ OK.
+
+01:01:13.960 --> 01:01:15.120
+ So collaborative filtering.

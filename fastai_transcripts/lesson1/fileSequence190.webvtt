@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:47:28.040 --> 00:47:30.160
+ And that means it needs thousands of things to do
+
+00:47:30.160 --> 00:47:31.880
+ at the same time.
+
+00:47:31.880 --> 00:47:35.720
+ So a data loader will feed the training algorithm
+
+00:47:35.720 --> 00:47:40.800
+ with a bunch of your images at once.
+
+00:47:40.800 --> 00:47:42.040
+ In fact, we don't call it a bunch.
+
+00:47:42.040 --> 00:47:46.680
+ We call it a batch or a mini batch.

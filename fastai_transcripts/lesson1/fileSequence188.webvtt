@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:46:58.720 --> 00:47:01.480
+ or you can squish it.
+
+00:47:01.480 --> 00:47:05.760
+ And so we're saying squish it.
+
+00:47:05.760 --> 00:47:06.760
+ So that's the data block.
+
+00:47:06.760 --> 00:47:08.240
+ That's all that you need.
+
+00:47:08.240 --> 00:47:11.800
+ And from there, we create an important class
+
+00:47:11.800 --> 00:47:13.080
+ called data loaders.
+
+00:47:13.080 --> 00:47:17.560
+ Data loaders are the things that actually PyTorch iterates

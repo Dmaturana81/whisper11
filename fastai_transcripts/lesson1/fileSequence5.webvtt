@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:01:11.920 --> 00:01:15.440
+ in about two minutes.
+
+00:01:15.440 --> 00:01:17.160
+ So let's build an Is It a Bird system?
+
+00:01:19.600 --> 00:01:21.720
+ So we're going to use Python.
+
+00:01:21.720 --> 00:01:24.040
+ And so I'm going to run through this really quickly.
+
+00:01:24.040 --> 00:01:25.720
+ You're not expected to run through it with me,
+
+00:01:25.720 --> 00:01:27.920
+ because we're going to come back to it.
+
+00:01:27.920 --> 00:01:31.280
+ But let's go ahead and run that cell.

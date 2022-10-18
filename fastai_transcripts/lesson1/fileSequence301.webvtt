@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:15:12.400 --> 01:15:16.000
+ We need some mechanism if making a little bit better.
+
+01:15:16.000 --> 01:15:19.680
+ If we can just do that one thing, then we just
+
+01:15:19.680 --> 01:15:21.600
+ need to iterate this a few times.
+
+01:15:21.600 --> 01:15:24.200
+ Because each time we put in some more inputs
+
+01:15:24.200 --> 01:15:27.040
+ and put in our weights and get our loss
+
+01:15:27.040 --> 01:15:29.240
+ and use it to make it a little bit better,
+
+01:15:29.240 --> 01:15:32.000
+ then if we make it a little bit better enough times,

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:56:13.720 --> 00:56:16.440
+ using a tiny, tiny, tiny amount of data.
+
+00:56:16.440 --> 00:56:20.240
+ So again, you would think this would be a particularly
+
+00:56:20.240 --> 00:56:24.880
+ challenging problem to solve.
+
+00:56:24.880 --> 00:56:26.960
+ But it took about 20 seconds of training
+
+00:56:26.960 --> 00:56:30.120
+ to solve it not amazingly well, but pretty well.

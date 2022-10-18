@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:24:27.960 --> 00:24:33.480
+ So we don't give it features, we ask it to learn features.
+
+00:24:33.480 --> 00:24:36.240
+ So when Zyla and Fergus looked inside a neural network,
+
+00:24:36.240 --> 00:24:42.440
+ they looked at the actual weights in the model
+
+00:24:42.440 --> 00:24:43.800
+ and they drew a picture of them.
+
+00:24:43.800 --> 00:24:47.240
+ And this was nine of the sets of weights they found.

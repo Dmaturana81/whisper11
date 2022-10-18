@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:20:25.960 --> 00:20:31.200
+ Nvidia started optimizing their stuff using our approaches.
+
+00:20:31.200 --> 00:20:34.520
+ So it made quite a big difference there.
+
+00:20:34.520 --> 00:20:36.720
+ I'm the inventor of the ULM fit algorithm,
+
+00:20:36.720 --> 00:20:38.800
+ which according to the Transformers book,
+
+00:20:38.800 --> 00:20:44.840
+ was one of the two key foundations behind the modern NLP
+
+00:20:44.840 --> 00:20:46.800
+ revolution.

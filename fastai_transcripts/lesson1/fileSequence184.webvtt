@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:45:57.760 --> 00:46:01.800
+ is how do we know the correct label of a photo?
+
+00:46:01.800 --> 00:46:05.680
+ How do we know if it's a bird photo or a forest photo?
+
+00:46:05.680 --> 00:46:08.800
+ And this is another function.
+
+00:46:08.800 --> 00:46:13.640
+ And this function simply returns the parent folder
+
+00:46:13.640 --> 00:46:16.360
+ of a path.

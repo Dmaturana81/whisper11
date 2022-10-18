@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:45:12.960 --> 00:45:16.600
+ files in a path based on extension.
+
+00:45:16.600 --> 00:45:18.200
+ So every time it's going to try and find out
+
+00:45:18.200 --> 00:45:20.880
+ what things to train from, it's going to use that function.
+
+00:45:20.880 --> 00:45:24.320
+ In this case, we'll get a list of image files.
+
+00:45:24.320 --> 00:45:26.640
+ Now, something we'll talk about shortly
+
+00:45:26.640 --> 00:45:30.400
+ is that it's critical that you put aside some data

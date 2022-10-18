@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:35:59.160 --> 00:36:02.920
+ And to use it, we can type in any arbitrary expression
+
+00:36:02.920 --> 00:36:06.040
+ in Python and click run.
+
+00:36:06.040 --> 00:36:08.240
+ And the very first time we do that, it says session is
+
+00:36:08.240 --> 00:36:10.920
+ starting, it's basically launching a virtual computer
+
+00:36:10.920 --> 00:36:12.920
+ for us to run our code.
+
+00:36:12.920 --> 00:36:15.920
+ This is all free.

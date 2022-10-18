@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:03:14.640 --> 00:03:16.840
+ It's going to try and figure out whether this is a picture
+
+00:03:16.840 --> 00:03:24.320
+ of a bird or not.
+
+00:03:24.320 --> 00:03:25.080
+ OK.
+
+00:03:25.080 --> 00:03:29.760
+ So let's go ahead and run this cell, which is going to go through.
+
+00:03:29.760 --> 00:03:32.680
+ And I needed bird and nonbird, but you can't really

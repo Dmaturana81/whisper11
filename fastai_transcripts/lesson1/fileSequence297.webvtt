@@ -1,0 +1,29 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:14:11.960 --> 01:14:15.080
+ And then let's decide how good they are.
+
+01:14:15.080 --> 01:14:18.080
+ So if, for example, we're trying to decide,
+
+01:14:18.080 --> 01:14:20.080
+ is this a picture of a bird?
+
+01:14:20.080 --> 01:14:22.800
+ And the model said, which initially is random,
+
+01:14:22.800 --> 01:14:24.160
+ says this isn't a bird.
+
+01:14:24.160 --> 01:14:25.680
+ And actually, it is a bird.
+
+01:14:25.680 --> 01:14:27.720
+ We would say, oh, you're wrong.
+
+01:14:27.720 --> 01:14:29.880
+ So we then calculate the loss.
+
+01:14:29.880 --> 01:14:33.200
+ So the loss is a number that says how good were the results.

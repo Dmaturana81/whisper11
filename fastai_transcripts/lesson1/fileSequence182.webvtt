@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:45:26.640 --> 00:45:30.400
+ is that it's critical that you put aside some data
+
+00:45:30.400 --> 00:45:32.480
+ for testing the accuracy of your model.
+
+00:45:32.480 --> 00:45:35.400
+ And that's called a validation set.
+
+00:45:35.400 --> 00:45:37.920
+ It's so critical that Fast.DI won't let
+
+00:45:37.920 --> 00:45:40.840
+ you train a model without one.
+
+00:45:40.840 --> 00:45:43.560
+ So you actually have to tell it how to create a validation set,
+
+00:45:43.560 --> 00:45:45.320
+ how to set aside some data.

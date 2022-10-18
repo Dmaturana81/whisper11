@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:44:44.640 --> 00:44:49.360
+ So that means it's one of a number of possibilities.
+
+00:44:49.360 --> 00:44:52.960
+ So that's enough for Fast.DI to know what kind of model
+
+00:44:52.960 --> 00:44:55.640
+ to build for you.
+
+00:44:55.640 --> 00:44:57.160
+ So what are the items in this model?
+
+00:44:57.160 --> 00:45:00.800
+ What am I actually going to be looking at to train from?

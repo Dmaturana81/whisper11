@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:02:41.520 --> 01:02:45.720
+ It's going to have generally speaking a user ID, some kind
+
+01:02:45.720 --> 01:02:46.720
+ of product ID.
+
+01:02:46.720 --> 01:02:51.680
+ In this case, a movie and a rating.
+
+01:02:51.680 --> 01:02:57.320
+ So in this case, this user gave this movie a rating of 3.5
+
+01:02:57.320 --> 01:02:58.640
+ out of 5.
+
+01:02:58.640 --> 01:03:00.400
+ And so again, you can see ShowBatch.

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:29:58.040 --> 00:30:00.480
+ And it's something which very few people
+
+00:30:00.480 --> 00:30:04.040
+ are aware of, a pair of.
+
+00:30:04.040 --> 00:30:08.480
+ In this course, we'll be using PyTorch.
+
+00:30:08.480 --> 00:30:11.840
+ For those of you who are not particularly close
+
+00:30:11.840 --> 00:30:14.520
+ to the deep learning world, you might
+
+00:30:14.520 --> 00:30:17.960
+ have heard of TensorFlow and not of PyTorch.

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:58:12.880 --> 00:58:15.040
+ So that is it.
+
+00:58:15.040 --> 00:58:19.320
+ And that's how we create a segmentation model.
+
+00:58:19.320 --> 00:58:21.720
+ What about stepping away from computer vision?
+
+00:58:21.720 --> 00:58:26.520
+ So perhaps the most widely used kind of model used in industry
+
+00:58:26.520 --> 00:58:27.800
+ is tabular analysis.
+
+00:58:27.800 --> 00:58:30.440
+ So taking things like spreadsheets and database tables

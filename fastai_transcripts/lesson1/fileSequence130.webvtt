@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:32:28.560 --> 00:32:30.400
+ The problem of writing lots of code
+
+00:32:30.400 --> 00:32:32.760
+ is that that's lots of things to make mistakes with,
+
+00:32:32.760 --> 00:32:36.400
+ lots of things to not have best practices in,
+
+00:32:36.400 --> 00:32:38.000
+ lots of things to maintain.
+
+00:32:38.000 --> 00:32:40.720
+ In general, we found particularly with deep learning,
+
+00:32:40.720 --> 00:32:42.840
+ less code is better.
+
+00:32:42.840 --> 00:32:48.120
+ Particularly with Fast.AI, the code you don't write

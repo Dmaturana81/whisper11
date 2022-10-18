@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:52:58.960 --> 00:53:00.960
+ and what it was originally trained for.
+
+00:53:00.960 --> 00:53:03.200
+ That's called fine tuning.
+
+00:53:03.200 --> 00:53:05.240
+ Hence the name.
+
+00:53:05.240 --> 00:53:09.760
+ So that's why you'll see this downloading happen first.
+
+00:53:09.760 --> 00:53:12.240
+ And so as you can see, at the end of it,
+
+00:53:12.240 --> 00:53:13.680
+ this is the error rate here.
+
+00:53:13.680 --> 00:53:21.560
+ After a few seconds, it's 100% accurate.

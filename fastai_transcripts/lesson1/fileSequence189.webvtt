@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:47:13.080 --> 00:47:17.560
+ Data loaders are the things that actually PyTorch iterates
+
+00:47:17.560 --> 00:47:21.000
+ through to grab a bunch of your data at a time.
+
+00:47:21.000 --> 00:47:24.720
+ The way it can do it so fast is by using a GPU, which
+
+00:47:24.720 --> 00:47:28.040
+ is something that can do thousands of things at the same time.
+
+00:47:28.040 --> 00:47:30.160
+ And that means it needs thousands of things to do

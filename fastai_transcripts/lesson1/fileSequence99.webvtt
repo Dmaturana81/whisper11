@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:24:43.800 --> 00:24:47.240
+ And this was nine of the sets of weights they found.
+
+00:24:47.240 --> 00:24:48.960
+ And this set of weights, for example,
+
+00:24:48.960 --> 00:24:50.760
+ finds diagonal edges.
+
+00:24:50.760 --> 00:24:53.640
+ This set of weights finds yellow to blue gradients.
+
+00:24:53.640 --> 00:24:57.880
+ And this set of weights finds red to green gradients.
+
+00:24:57.880 --> 00:24:58.960
+ And so forth.
+
+00:24:58.960 --> 00:25:03.440
+ And then down here are examples of some bits of photos,

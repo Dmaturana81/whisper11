@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:52:41.440 --> 00:52:45.000
+ is this fine tune method, which what it does
+
+00:52:45.000 --> 00:52:48.200
+ is it takes those pre trained weights we downloaded for you
+
+00:52:48.200 --> 00:52:52.680
+ and it adjusts them in a really carefully controlled way
+
+00:52:52.680 --> 00:52:58.960
+ to just teach the model the differences between your dataset
+
+00:52:58.960 --> 00:53:00.960
+ and what it was originally trained for.

@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:04:57.120 --> 00:05:00.200
+ So we've got some birds, forest, bird, bird, forest.
+
+00:05:00.200 --> 00:05:02.520
+ OK, so one of the nice things about doing computer vision
+
+00:05:02.520 --> 00:05:04.600
+ models is it's really easy to check your data,
+
+00:05:04.600 --> 00:05:06.320
+ because you can just look at it, which
+
+00:05:06.320 --> 00:05:10.200
+ is not the case for a lot of kinds of models.
+
+00:05:10.200 --> 00:05:11.360
+ OK.
+
+00:05:11.360 --> 00:05:13.960
+ So we've now downloaded 200 pictures of birds,
+
+00:05:13.960 --> 00:05:17.680
+ 200 pictures of forests.

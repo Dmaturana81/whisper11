@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:31:43.520 --> 00:31:47.480
+ I actually copied this code from the PyTorch repository.
+
+00:31:47.480 --> 00:31:51.240
+ So as you can see, there's a lot of it.
+
+00:31:51.240 --> 00:31:55.440
+ This gray bit here is the code required
+
+00:31:55.440 --> 00:31:57.960
+ to do the same thing with Fast.AI.
+
+00:31:57.960 --> 00:32:02.360
+ Fast.AI is a library we built on top of PyTorch.

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:38:26.040 --> 00:38:30.480
+ So let's have a look at how we do our bird or not bird model.
+
+00:38:36.200 --> 00:38:38.560
+ One thing I always like to do when I'm using something
+
+00:38:38.560 --> 00:38:41.680
+ like Colab or Kaggle, Cloud Platforms
+
+00:38:41.680 --> 00:38:43.280
+ that I'm not controlling is make sure
+
+00:38:43.280 --> 00:38:46.520
+ that I'm using the most recent version of any software.

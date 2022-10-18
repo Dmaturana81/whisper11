@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:51:12.920 --> 00:51:19.320
+ Having said that, the model family called ResNet
+
+00:51:19.320 --> 00:51:21.560
+ are probably going to be fine for nearly all the things
+
+00:51:21.560 --> 00:51:22.840
+ you want to do.
+
+00:51:22.840 --> 00:51:25.120
+ But it is fun to try different models out.
+
+00:51:25.120 --> 00:51:30.000
+ So you can type in any string here

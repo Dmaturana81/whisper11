@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:23:44.440 --> 00:23:47.520
+ So this project took years and a lot of people
+
+00:23:47.520 --> 00:23:49.720
+ and a lot of code and a lot of math.
+
+00:23:49.720 --> 00:23:52.200
+ And then once they had all these features,
+
+00:23:52.200 --> 00:23:54.240
+ they then fed them into a machine learning model,
+
+00:23:54.240 --> 00:23:57.640
+ in this case, logistic progression to predict survival.
+
+00:23:57.640 --> 00:24:00.120
+ As I say, it's very successful.

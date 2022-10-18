@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:11:27.120 --> 01:11:30.880
+ largely as it was described by Arthur Samuel in the late 50s
+
+01:11:30.880 --> 01:11:33.480
+ when it was invented.
+
+01:11:33.480 --> 01:11:39.560
+ And I'm going to kind of do it with these graphs, which,
+
+01:11:39.560 --> 01:11:42.120
+ by the way, you might find fun.
+
+01:11:42.120 --> 01:11:54.000
+ These graphs themselves created with Jupyter Notebooks.

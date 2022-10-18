@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:30:14.520 --> 00:30:17.960
+ have heard of TensorFlow and not of PyTorch.
+
+00:30:17.960 --> 00:30:22.960
+ You might be surprised to hear that TensorFlow has been
+
+00:30:22.960 --> 00:30:26.840
+ dying in popularity in recent years.
+
+00:30:26.840 --> 00:30:29.840
+ And PyTorch is actually growing rapidly.
+
+00:30:29.840 --> 00:30:40.640
+ And in research repositories amongst the top papers,

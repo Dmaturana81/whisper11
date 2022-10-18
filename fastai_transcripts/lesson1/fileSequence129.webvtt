@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:32:13.520 --> 00:32:18.520
+ So when you use Fast.AI, the library,
+
+00:32:18.520 --> 00:32:22.960
+ you get access to all the power of PyTorch as well.
+
+00:32:22.960 --> 00:32:26.200
+ But you shouldn't be writing all this code
+
+00:32:26.200 --> 00:32:28.560
+ if you only need to write this much code.
+
+00:32:28.560 --> 00:32:30.400
+ The problem of writing lots of code

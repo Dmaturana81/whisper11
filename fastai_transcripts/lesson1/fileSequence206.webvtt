@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:51:25.120 --> 00:51:30.000
+ So you can type in any string here
+
+00:51:30.000 --> 00:51:32.440
+ to use any one of those other models.
+
+00:51:35.920 --> 00:51:40.080
+ OK, so if we run that, let's see what happens.
+
+00:51:40.080 --> 00:51:41.160
+ OK, so this is interesting.
+
+00:51:41.160 --> 00:51:44.160
+ So when I ran this, so remember on Kaggle,
+
+00:51:44.160 --> 00:51:47.560
+ it's creating a new virtual computer for us.

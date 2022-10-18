@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:17:27.160 --> 01:17:30.880
+ And that's why we can do what I described earlier.
+
+01:17:30.880 --> 01:17:33.480
+ Once we've got that learned dot predict for our bird
+
+01:17:33.480 --> 01:17:38.000
+ recognizer, we can insert it into any piece of computer code.
+
+01:17:38.000 --> 01:17:42.520
+ Once we've got a trained model as just another piece of code,
+
+01:17:42.520 --> 01:17:47.320
+ we can call with some inputs and get some outputs.

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:33:13.120 --> 00:33:15.840
+ we'll be seeing more and more pure PyTorch
+
+00:33:15.840 --> 00:33:18.440
+ as we get deeper and deeper underneath
+
+00:33:18.440 --> 00:33:22.320
+ to see exactly how things work.
+
+00:33:22.320 --> 00:33:25.920
+ The Fast.AI library just won the 2020 Best Paper Award,
+
+00:33:25.920 --> 00:33:28.520
+ or the paper about it, in information.
+
+00:33:28.520 --> 00:33:34.400
+ So again, you can see it's very well regarded library.

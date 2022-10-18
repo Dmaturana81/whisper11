@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:05:55.880 --> 01:06:00.360
+ And because it's all in notebooks, every time we say,
+
+01:06:00.360 --> 01:06:02.040
+ here's how you create this plot or here's
+
+01:06:02.040 --> 01:06:04.040
+ how you train this model, you can actually
+
+01:06:04.040 --> 01:06:06.400
+ create the plot or you can actually train the model
+
+01:06:06.400 --> 01:06:08.840
+ because it's all notebooks.
+
+01:06:14.880 --> 01:06:19.240
+ The entire Fast.io library is actually written in notebooks.

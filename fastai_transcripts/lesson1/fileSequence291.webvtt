@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:12:43.640 --> 01:12:45.040
+ And the key thing is this.
+
+01:12:45.040 --> 01:12:49.400
+ The model is not any more a bunch of conditionals
+
+01:12:49.400 --> 01:12:51.000
+ and loops and things.
+
+01:12:51.000 --> 01:12:52.760
+ It's a mathematical function.
+
+01:12:52.760 --> 01:12:54.560
+ In the case of a neural network, it's
+
+01:12:54.560 --> 01:12:58.160
+ a mathematical function that takes the inputs,
+
+01:12:58.160 --> 01:13:01.920
+ multiplies them together by the weights, by one set of weights,

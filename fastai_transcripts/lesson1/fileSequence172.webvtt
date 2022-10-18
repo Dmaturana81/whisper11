@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:42:58.040 --> 00:43:01.200
+ that it almost never comes up.
+
+00:43:01.200 --> 00:43:03.680
+ Kind of like if you ever did a computer science course
+
+00:43:03.680 --> 00:43:05.080
+ or something and they spent all this time
+
+00:43:05.080 --> 00:43:08.880
+ on the details of compilers and operating systems,
+
+00:43:08.880 --> 00:43:10.120
+ and then you get to the real world
+
+00:43:10.120 --> 00:43:12.080
+ and you never use it again.
+
+00:43:12.080 --> 00:43:14.440
+ So this course is called practical deep learning.
+
+00:43:14.440 --> 00:43:16.480
+ And so we're going to focus on the stuff

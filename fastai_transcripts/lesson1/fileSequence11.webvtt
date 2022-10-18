@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:02:42.520 --> 00:02:47.560
+ So that's G, B. And so you can see as I wave around,
+
+00:02:47.560 --> 00:02:52.240
+ those colors are changing, those numbers.
+
+00:02:52.240 --> 00:02:57.800
+ And so this picture, the thing that we recognize as a picture,
+
+00:02:57.800 --> 00:03:07.080
+ is actually 256 by 171 by three numbers between 0 and 255,

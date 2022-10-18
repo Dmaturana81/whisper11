@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:33:44.960 --> 00:33:50.320
+ which is that I'm actually running code in these slides.
+
+00:33:50.320 --> 00:33:53.040
+ That's because these slides are not in PowerPoint.
+
+00:33:53.040 --> 00:33:54.080
+ These slides are in.
+
+00:33:57.880 --> 00:33:59.520
+ Jupyter Notebook.
+
+00:33:59.520 --> 00:34:02.720
+ Jupyter Notebook is the environment in which you

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:15:29.240 --> 01:15:32.000
+ then if we make it a little bit better enough times,
+
+01:15:32.000 --> 01:15:35.560
+ eventually it's going to get good, assuming
+
+01:15:35.560 --> 01:15:38.880
+ that our model is flexible enough to represent
+
+01:15:38.880 --> 01:15:40.960
+ the thing we want to do.
+
+01:15:40.960 --> 01:15:43.560
+ Now remember what I told you earlier about what a neural network
+
+01:15:43.560 --> 01:15:45.840
+ is, which is basically multiplying things together

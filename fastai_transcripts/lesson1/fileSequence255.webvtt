@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:03:41.400 --> 01:03:45.080
+ So that's why I say 0.5 to 5.5.
+
+01:03:45.080 --> 01:03:46.320
+ And then fine tune.
+
+01:03:46.320 --> 01:03:48.480
+ Now again, we don't really need to fine tune here
+
+01:03:48.480 --> 01:03:50.680
+ because there's not really such a thing as a pre trained
+
+01:03:50.680 --> 01:03:51.800
+ collaborative filtering model.
+
+01:03:51.800 --> 01:03:54.320
+ We could just say fit or fit one cycle,
+
+01:03:54.320 --> 01:03:57.600
+ but actually fine tune works fine as well.
+
+01:03:57.600 --> 01:04:02.400
+ So after we train it for a while, this here

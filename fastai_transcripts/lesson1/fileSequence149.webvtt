@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:37:12.760 --> 00:37:16.920
+ is a cell that lets you type calculations,
+
+00:37:16.920 --> 00:37:21.320
+ or a markdown cell, which is a cell that lets you create pros.
+
+00:37:21.320 --> 00:37:27.840
+ And the pros use this formatting in a little menu language
+
+00:37:27.840 --> 00:37:28.880
+ called markdown.
+
+00:37:28.880 --> 00:37:30.160
+ There's so many tutorials around.

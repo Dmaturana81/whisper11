@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:38:02.920 --> 00:38:05.800
+ As you can see, you can put images into notebooks.
+
+00:38:05.800 --> 00:38:07.960
+ And so the image I popped in here was the one showing
+
+00:38:07.960 --> 00:38:11.760
+ that Jupyter won the 2017 Software System Award, which
+
+00:38:11.760 --> 00:38:15.440
+ is pretty much the biggest award there is for this kind

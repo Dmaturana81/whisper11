@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:58:27.800 --> 00:58:30.440
+ So taking things like spreadsheets and database tables
+
+00:58:30.440 --> 00:58:31.800
+ and trying to predict columns of those.
+
+00:58:37.640 --> 00:58:41.080
+ So in tabular analysis, it really
+
+00:58:41.080 --> 00:58:45.040
+ looks very similar to what we've seen already.

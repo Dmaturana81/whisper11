@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:40:57.840 --> 00:41:02.000
+ And so you can see, fast di has a download images
+
+00:41:02.000 --> 00:41:04.640
+ where you just provide a list of URLs.
+
+00:41:04.640 --> 00:41:05.960
+ So that's how easy it is.
+
+00:41:05.960 --> 00:41:07.880
+ And it does that in parallel.
+
+00:41:07.880 --> 00:41:12.920
+ So it does that surprisingly quickly.
+
+00:41:12.920 --> 00:41:17.520
+ One other fast thing I think I'm using here is resize images.

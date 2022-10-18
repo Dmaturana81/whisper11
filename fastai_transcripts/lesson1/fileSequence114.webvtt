@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:28:28.760 --> 00:28:33.760
+ there's a lot of things you can do with images.
+
+00:28:33.760 --> 00:28:35.440
+ There's something else I wanted to point out,
+
+00:28:35.440 --> 00:28:42.680
+ which is that as you saw, when we trained a real working
+
+00:28:42.680 --> 00:28:46.280
+ bird recognizer image model, we didn't need lots of math.

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:35:09.920 --> 00:35:15.160
+ And I've got quite a few examples there.
+
+00:35:19.040 --> 00:35:20.840
+ So let me give you a quick example
+
+00:35:20.840 --> 00:35:26.240
+ of how we use Jupyter Notebooks to build stuff,
+
+00:35:26.240 --> 00:35:28.720
+ to experiment, to explore.
+
+00:35:28.720 --> 00:35:31.560
+ So on Kaggle, if you start with somebody else's Notebook,

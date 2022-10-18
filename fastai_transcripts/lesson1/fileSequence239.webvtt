@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:59:44.040 --> 00:59:47.240
+ particularly popular in language called Julia,
+
+00:59:47.240 --> 00:59:50.440
+ to basically automatically do the right thing
+
+00:59:50.440 --> 00:59:53.400
+ for your data regardless of what kind of data it is.
+
+00:59:53.400 --> 00:59:55.480
+ So if you call show batch on something,
+
+00:59:55.480 --> 00:59:57.240
+ you should get back something useful,
+
+00:59:57.240 --> 00:59:59.800
+ regardless of what kind of information you provided.
+
+00:59:59.800 --> 01:00:05.480
+ So for a table, it shows you the information in that table.

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:25:58.560 --> 00:26:03.480
+ So you can then combine these features.
+
+00:26:03.480 --> 00:26:05.560
+ And when you combine these features,
+
+00:26:05.560 --> 00:26:07.440
+ it creates a feature detector, for example,
+
+00:26:07.440 --> 00:26:11.560
+ that finds kind of repeating geometric shapes.
+
+00:26:11.560 --> 00:26:14.160
+ And it creates a feature detector, for example,
+
+00:26:14.160 --> 00:26:17.880
+ that finds kind of really little things, which it looks like,

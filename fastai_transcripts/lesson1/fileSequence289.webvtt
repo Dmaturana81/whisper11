@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:12:11.080 --> 01:12:15.000
+ well, you still have inputs, and you still have results.
+
+01:12:15.000 --> 01:12:17.200
+ And then you code a program in the middle,
+
+01:12:17.200 --> 01:12:20.240
+ which is a bunch of conditionals and loops and setting
+
+01:12:20.240 --> 01:12:22.200
+ variables and blah, blah, blah.
+
+01:12:22.200 --> 01:12:24.400
+ OK.
+
+01:12:24.400 --> 01:12:27.640
+ A machine learning model doesn't look that different.

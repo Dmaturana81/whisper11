@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:45:43.560 --> 00:45:45.320
+ how to set aside some data.
+
+00:45:45.320 --> 00:45:50.920
+ And in this case, we say randomly set aside 20% of the data.
+
+00:45:53.400 --> 00:45:54.880
+ OK.
+
+00:45:54.880 --> 00:45:57.760
+ Next question, then you have to tell Fast.DI,
+
+00:45:57.760 --> 00:46:01.800
+ is how do we know the correct label of a photo?

@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:54:28.880 --> 00:54:37.920
+ So that's how we can create a computer vision model.
+
+00:54:37.920 --> 00:54:39.880
+ What about other kinds of models?
+
+00:54:39.880 --> 00:54:43.160
+ There's a lot more in the world than just computer vision.
+
+00:54:43.160 --> 00:54:45.160
+ A lot more than just image recognition.

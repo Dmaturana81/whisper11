@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:01:13.960 --> 01:01:15.120
+ So collaborative filtering.
+
+01:01:20.240 --> 01:01:23.440
+ Collaborative filtering is the basis of most recommendation
+
+01:01:23.440 --> 01:01:24.600
+ systems today.
+
+01:01:24.600 --> 01:01:26.800
+ It's a system where we basically take data
+
+01:01:26.800 --> 01:01:33.880
+ that says which users liked which products or which users

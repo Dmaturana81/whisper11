@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:50:44.040 --> 00:50:45.040
+ to integrate this.
+
+00:50:45.040 --> 00:50:49.280
+ So you can use any one of the PyTorch image models.
+
+00:50:49.280 --> 00:50:51.200
+ And one of our students, Amana Mora,
+
+00:50:51.200 --> 00:50:56.120
+ was kind enough to create this fantastic documentation
+
+00:50:56.120 --> 00:50:59.800
+ where you can find out all about the different models.

@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:11:42.120 --> 01:11:54.000
+ These graphs themselves created with Jupyter Notebooks.
+
+01:11:54.000 --> 01:11:56.280
+ So these are graph Fizz descriptions
+
+01:11:56.280 --> 01:11:58.080
+ that are going to get turned into these.
+
+01:11:58.080 --> 01:12:01.040
+ So there's a little sneak peek behind the scenes for you.

@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:04:25.280 --> 00:04:30.480
+ OK, so now we can create what's called a data block.
+
+00:04:30.480 --> 00:04:40.640
+ So after I run this cell, you'll see that basically,
+
+00:04:40.640 --> 00:04:42.480
+ I'll go through the details of this later.
+
+00:04:42.480 --> 00:04:46.120
+ But a data block gives fast AI, the library,

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:02:29.880 --> 01:02:33.640
+ by downloading and decompressing some data,
+
+01:02:33.640 --> 01:02:35.520
+ create our collab data loaders.
+
+01:02:35.520 --> 01:02:39.160
+ In this case, we can just say from CSV and passing a CSV.
+
+01:02:39.160 --> 01:02:41.520
+ And this is what collaborative filtering data looks like.
+
+01:02:41.520 --> 01:02:45.720
+ It's going to have generally speaking a user ID, some kind

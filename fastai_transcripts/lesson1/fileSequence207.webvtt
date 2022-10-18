@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:51:44.160 --> 00:51:47.560
+ it's creating a new virtual computer for us.
+
+00:51:47.560 --> 00:51:49.640
+ So it doesn't really have anything ready to go.
+
+00:51:49.640 --> 00:51:51.200
+ So when I ran this, the first thing it did
+
+00:51:51.200 --> 00:51:56.360
+ was it said downloading ResNet18.pth.
+
+00:51:56.360 --> 00:51:57.560
+ What's that?
+
+00:51:57.560 --> 00:52:01.040
+ Well, the reason we can do this so fast

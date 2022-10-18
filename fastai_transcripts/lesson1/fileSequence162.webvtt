@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:40:24.320 --> 00:40:30.320
+ we have image to thumb and so forth.
+
+00:40:30.320 --> 00:40:36.000
+ So I always like to view, as I'm building a model,
+
+00:40:36.000 --> 00:40:37.600
+ my data at every step.
+
+00:40:37.600 --> 00:40:40.680
+ So that's why I first of all grab one bird.
+
+00:40:40.680 --> 00:40:43.120
+ And then I grab one forest photo,
+
+00:40:43.120 --> 00:40:46.480
+ and I look at them to make sure they look reasonable.

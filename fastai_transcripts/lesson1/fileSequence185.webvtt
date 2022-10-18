@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:46:13.640 --> 00:46:16.360
+ of a path.
+
+00:46:16.360 --> 00:46:19.160
+ And so in this case, we saved our images
+
+00:46:19.160 --> 00:46:22.880
+ into either forest or bird.
+
+00:46:22.880 --> 00:46:26.920
+ So that's where the labels are going to come from.
+
+00:46:26.920 --> 00:46:33.200
+ And then finally, most computer vision architectures

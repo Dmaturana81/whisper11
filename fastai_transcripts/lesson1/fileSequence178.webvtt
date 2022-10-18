@@ -1,0 +1,29 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:44:28.640 --> 00:44:31.320
+ So the first thing that we tell Fast.DI
+
+00:44:31.320 --> 00:44:34.160
+ is what kind of input do we have?
+
+00:44:34.160 --> 00:44:36.960
+ And so there are lots of blocks in Fast.DI
+
+00:44:36.960 --> 00:44:38.160
+ for different kinds of inputs.
+
+00:44:38.160 --> 00:44:41.120
+ So we said, oh, the input is an image.
+
+00:44:41.120 --> 00:44:42.400
+ What kind of output is there?
+
+00:44:42.400 --> 00:44:43.280
+ What kind of label?
+
+00:44:43.280 --> 00:44:44.640
+ The outputs are category.
+
+00:44:44.640 --> 00:44:49.360
+ So that means it's one of a number of possibilities.

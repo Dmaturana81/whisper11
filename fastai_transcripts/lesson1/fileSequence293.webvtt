@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:13:14.840 --> 01:13:18.160
+ And then it takes those as inputs to a next layer.
+
+01:13:18.160 --> 01:13:19.320
+ It does the same thing.
+
+01:13:19.320 --> 01:13:21.960
+ It multiplies them a bunch of times and adds them up.
+
+01:13:21.960 --> 01:13:23.960
+ And it does that a few times.
+
+01:13:23.960 --> 01:13:26.960
+ And that's called a neural network.
+
+01:13:26.960 --> 01:13:31.560
+ Now, the model, therefore, is not

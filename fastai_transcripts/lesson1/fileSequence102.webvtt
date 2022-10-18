@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:25:27.520 --> 00:25:30.000
+ Now, here are some examples of bits of pictures
+
+00:25:30.000 --> 00:25:32.680
+ that the circle finder found.
+
+00:25:32.680 --> 00:25:35.840
+ And so remember, with a neural net, which
+
+00:25:35.840 --> 00:25:38.440
+ is the basic function used in deep learning,
+
+00:25:38.440 --> 00:25:41.080
+ we don't have to hand code any of these
+
+00:25:41.080 --> 00:25:43.680
+ or come up with any of these ideas.
+
+00:25:43.680 --> 00:25:47.520
+ You just start with actually a random neural network

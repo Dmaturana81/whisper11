@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:39:28.800 --> 00:39:34.560
+ you might be surprised about how little code there is here.
+
+00:39:34.560 --> 00:39:41.560
+ And so Python is a concise, but not too concise language.
+
+00:39:41.560 --> 00:39:43.600
+ You'll see that there's less boilerplate than some other
+
+00:39:43.600 --> 00:39:46.720
+ languages you might be familiar with.

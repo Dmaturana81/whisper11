@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:39:09.800 --> 00:39:15.560
+ So you'll see here this notebook is the exact thing
+
+00:39:15.560 --> 00:39:17.280
+ that I was showing you at the start of this lesson.
+
+00:39:21.920 --> 00:39:28.800
+ So if you haven't done much Python,
+
+00:39:28.800 --> 00:39:34.560
+ you might be surprised about how little code there is here.

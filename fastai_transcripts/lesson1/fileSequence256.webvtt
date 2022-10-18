@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:03:57.600 --> 01:04:02.400
+ So after we train it for a while, this here
+
+01:04:02.400 --> 01:04:04.520
+ is the mean squared error.
+
+01:04:04.520 --> 01:04:08.240
+ So it's basically about on average how far off are we
+
+01:04:08.240 --> 01:04:09.840
+ for the validation set.
+
+01:04:09.840 --> 01:04:13.040
+ And you can see as we train, and it's literally so fast,
+
+01:04:13.040 --> 01:04:16.000
+ it's less than a second, each epoch.

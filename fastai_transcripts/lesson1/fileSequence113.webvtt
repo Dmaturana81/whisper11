@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:28:14.320 --> 00:28:18.040
+ So the clicks became dots and the movements became lines.
+
+00:28:18.040 --> 00:28:20.680
+ And the speed of the movement became colors.
+
+00:28:20.680 --> 00:28:23.680
+ And then use that to create an image classifier.
+
+00:28:23.680 --> 00:28:28.760
+ So you can see with some creativity,
+
+00:28:28.760 --> 00:28:33.760
+ there's a lot of things you can do with images.

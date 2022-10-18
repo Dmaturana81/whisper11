@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:15:43.560 --> 01:15:45.840
+ is, which is basically multiplying things together
+
+01:15:45.840 --> 01:15:49.360
+ and adding them up and replacing the negatives with zeros.
+
+01:15:49.360 --> 01:15:51.320
+ And you do that a few times.
+
+01:15:51.320 --> 01:15:55.880
+ That is, provably, an infinitely flexible function.
+
+01:15:55.880 --> 01:15:59.960
+ So it actually turns out that that incredibly simple sequence
+
+01:15:59.960 --> 01:16:03.600
+ of steps, if you're repeated a few times,

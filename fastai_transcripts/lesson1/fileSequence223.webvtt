@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:55:43.040 --> 00:55:49.440
+ And then on the right is what our model is guessing.
+
+00:55:49.440 --> 00:55:52.720
+ And as you can see, it's getting a lot of the pixels
+
+00:55:52.720 --> 00:55:57.800
+ correct, and some of them is getting wrong.
+
+00:55:57.800 --> 00:55:59.640
+ It's actually amazing how many is getting correct,
+
+00:55:59.640 --> 00:56:13.720
+ because this particular model I trained in about 20 seconds

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:14:43.720 --> 01:14:45.720
+ No worries.
+
+01:14:45.720 --> 01:14:49.200
+ Now the critical step is this error.
+
+01:14:49.200 --> 01:14:52.880
+ We need as a way of updating the weights that
+
+01:14:52.880 --> 01:14:55.120
+ is coming up with a new set of weights that
+
+01:14:55.120 --> 01:14:58.640
+ are a bit better than the previous set.
+
+01:14:58.640 --> 01:15:04.200
+ And by a bit better, we mean it should make the loss get

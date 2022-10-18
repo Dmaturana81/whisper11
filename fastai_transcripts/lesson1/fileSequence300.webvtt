@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:14:58.640 --> 01:15:04.200
+ And by a bit better, we mean it should make the loss get
+
+01:15:04.200 --> 01:15:05.040
+ a little bit better.
+
+01:15:05.040 --> 01:15:09.360
+ So we've got this number that says how good is our model?
+
+01:15:09.360 --> 01:15:11.000
+ And initially, it's terrible, right?
+
+01:15:11.000 --> 01:15:12.400
+ It's random.
+
+01:15:12.400 --> 01:15:16.000
+ We need some mechanism if making a little bit better.
