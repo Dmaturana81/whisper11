@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:11:58.080 --> 01:12:01.040
+ So there's a little sneak peek behind the scenes for you.
+
+01:12:04.040 --> 01:12:05.580
+ So let's start with kind of a graph of like,
+
+01:12:05.580 --> 01:12:07.880
+ well, what does a normal program look like?
+
+01:12:07.880 --> 01:12:11.080
+ So in the pre deep learning and machine learning days,
+
+01:12:11.080 --> 01:12:15.000
+ well, you still have inputs, and you still have results.

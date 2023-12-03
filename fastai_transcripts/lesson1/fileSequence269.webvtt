@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:07:12.960 --> 01:07:15.680
+ Another thing you might be surprised by
+
+01:07:15.680 --> 01:07:17.960
+ is all of our tests and continuous integration
+
+01:07:17.960 --> 01:07:20.200
+ are also all in notebooks.
+
+01:07:20.200 --> 01:07:27.400
+ So every time we change one of our notebooks,
+
+01:07:27.400 --> 01:07:31.600
+ every time we change one of our notebooks,

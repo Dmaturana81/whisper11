@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:55:03.640 --> 00:55:06.040
+ So segmentation, maybe the best way to explain segmentation
+
+00:55:06.040 --> 00:55:09.200
+ is to show you the result of this model.
+
+00:55:09.200 --> 00:55:13.560
+ Segmentation is where we take photos, in this case
+
+00:55:13.560 --> 00:55:19.480
+ of road scenes, and we color in every pixel according

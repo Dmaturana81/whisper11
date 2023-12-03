@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:13:26.960 --> 01:13:31.560
+ Now, the model, therefore, is not
+
+01:13:31.560 --> 01:13:32.680
+ going to do anything useful.
+
+01:13:32.680 --> 01:13:36.720
+ And this leads weights to very carefully, it shows it.
+
+01:13:36.720 --> 01:13:38.720
+ And so the way it works is that we actually
+
+01:13:38.720 --> 01:13:42.480
+ start out with these weights as being random.
+
+01:13:42.480 --> 01:13:47.600
+ So initially, this thing doesn't do anything useful at all.

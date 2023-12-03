@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:14:29.880 --> 01:14:33.200
+ So the loss is a number that says how good were the results.
+
+01:14:35.200 --> 01:14:36.720
+ So that's all pretty straightforward.
+
+01:14:36.720 --> 01:14:38.880
+ You know, we could, for example, say, oh, what's the accuracy?
+
+01:14:38.880 --> 01:14:40.800
+ We could look at 100 photos and say,
+
+01:14:40.800 --> 01:14:43.720
+ which percentage of them did it get right?
+
+01:14:43.720 --> 01:14:45.720
+ No worries.

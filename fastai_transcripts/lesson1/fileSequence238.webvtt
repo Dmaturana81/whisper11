@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:59:25.680 --> 00:59:30.000
+ So they can take basically any real number.
+
+00:59:30.000 --> 00:59:34.160
+ And then again, we can use the exact same show batch
+
+00:59:34.160 --> 00:59:36.880
+ that we've seen before to see the data.
+
+00:59:36.880 --> 00:59:40.720
+ And so Fast.AI uses a lot of something
+
+00:59:40.720 --> 00:59:44.040
+ called typed dispatch, which is a system that's
+
+00:59:44.040 --> 00:59:47.240
+ particularly popular in language called Julia,

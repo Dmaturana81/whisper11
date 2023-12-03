@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:00:28.080 --> 01:00:32.160
+ we do as always something underscore learner.
+
+01:00:32.160 --> 01:00:35.280
+ In this case, it's a tabular learner.
+
+01:00:35.280 --> 01:00:37.600
+ Now, this time we don't say fine tune.
+
+01:00:37.600 --> 01:00:40.840
+ We say fit, specifically fit one cycle.
+
+01:00:40.840 --> 01:00:42.680
+ That's because for tabular models,
+
+01:00:42.680 --> 01:00:44.920
+ there's not generally going to be a pre trained model
+
+01:00:44.920 --> 01:00:47.200
+ that already does something like what you want,

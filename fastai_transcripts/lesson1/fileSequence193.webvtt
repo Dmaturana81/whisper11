@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:48:14.240 --> 00:48:18.920
+ So when you come to building your own models,
+
+00:48:18.920 --> 00:48:22.080
+ you'll be wanting to know what kind of splitters are there,
+
+00:48:22.080 --> 00:48:23.800
+ and what kinds of labeling functions are there,
+
+00:48:23.800 --> 00:48:24.600
+ and so forth.
+
+00:48:24.600 --> 00:48:25.640
+ What's wrong button?
+
+00:48:27.600 --> 00:48:30.120
+ You'll be wanting to know what kind of labeling functions

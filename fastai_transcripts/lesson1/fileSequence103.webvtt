@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:25:43.680 --> 00:25:47.520
+ You just start with actually a random neural network
+
+00:25:47.520 --> 00:25:51.080
+ and you feed it examples and you have a learn
+
+00:25:51.080 --> 00:25:53.160
+ to recognize things.
+
+00:25:53.160 --> 00:25:55.120
+ And it turns out that these are the things
+
+00:25:55.120 --> 00:25:58.560
+ that it creates for itself.
+
+00:25:58.560 --> 00:26:03.480
+ So you can then combine these features.

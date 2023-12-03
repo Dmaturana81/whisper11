@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:26:14.160 --> 00:26:17.880
+ that finds kind of really little things, which it looks like,
+
+00:26:17.880 --> 00:26:20.560
+ is finding the edges of flowers.
+
+00:26:20.560 --> 00:26:26.120
+ And this feature detector here seems to be finding words.
+
+00:26:26.120 --> 00:26:29.560
+ And so the deeper you get, the more sophisticated
+
+00:26:29.560 --> 00:26:31.000
+ the features it can find are.

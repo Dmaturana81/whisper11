@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:58:41.080 --> 00:58:45.040
+ looks very similar to what we've seen already.
+
+00:58:45.040 --> 00:58:46.360
+ We grab some data.
+
+00:58:46.360 --> 00:58:49.080
+ And you'll see when I call this untied data,
+
+00:58:49.080 --> 00:58:51.440
+ this is the thing in Fast.io that downloads some data
+
+00:58:51.440 --> 00:58:53.080
+ and decompresses it for you.
+
+00:58:53.080 --> 00:58:55.840
+ And there's a whole lot of URLs provided by Fast.AI
+
+00:58:55.840 --> 00:58:59.240
+ for all the kind of common data sets
+
+00:58:59.240 --> 00:59:02.360
+ that you might want to use, all the ones that are in the book,

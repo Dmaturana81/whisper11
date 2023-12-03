@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:31:57.960 --> 00:32:02.360
+ Fast.AI is a library we built on top of PyTorch.
+
+00:32:02.360 --> 00:32:06.200
+ This huge difference is not because PyTorch is bad.
+
+00:32:06.200 --> 00:32:09.960
+ It's because PyTorch is designed to be a strong foundation
+
+00:32:09.960 --> 00:32:13.520
+ to build things on top of, like Fast.AI.
+
+00:32:13.520 --> 00:32:18.520
+ So when you use Fast.AI, the library,

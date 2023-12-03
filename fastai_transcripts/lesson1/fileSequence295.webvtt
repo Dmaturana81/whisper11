@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:13:42.480 --> 01:13:47.600
+ So initially, this thing doesn't do anything useful at all.
+
+01:13:52.400 --> 01:13:56.080
+ So what we do, the way Arthur Samuel described it back
+
+01:13:56.080 --> 01:13:59.000
+ in the late 50s, the inventor of machine learning,
+
+01:13:59.000 --> 01:14:02.080
+ is he said, OK, let's take the inputs and the weights,

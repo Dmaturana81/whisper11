@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:31:27.400 --> 00:31:30.680
+ So this course has been using PyTorch for a long time.
+
+00:31:30.680 --> 00:31:33.280
+ I will say, however, that PyTorch requires
+
+00:31:33.280 --> 00:31:36.920
+ a lot of hairy code for relatively simple things.
+
+00:31:36.920 --> 00:31:40.440
+ This is the code required to implement a particular optimizer,
+
+00:31:40.440 --> 00:31:43.520
+ called Adam W, in plain PyTorch.
+
+00:31:43.520 --> 00:31:47.480
+ I actually copied this code from the PyTorch repository.

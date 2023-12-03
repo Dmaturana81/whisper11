@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:41:27.880 --> 00:41:30.520
+ because it's actually much faster.
+
+00:41:30.520 --> 00:41:34.520
+ Because GPU is so quick, for big images,
+
+00:41:34.520 --> 00:41:37.520
+ most of the time can be taken up just opening it
+
+00:41:37.520 --> 00:41:40.640
+ the neural net itself often takes less time.
+
+00:41:40.640 --> 00:41:42.440
+ So that's another good reason to make them smaller.

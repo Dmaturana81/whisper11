@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:03:28.880 --> 01:03:31.680
+ we tell it what's the possible range.
+
+01:03:31.680 --> 01:03:34.400
+ The actual range is 1 to 5.
+
+01:03:34.400 --> 01:03:36.120
+ But for reasons you'll learn about later,
+
+01:03:36.120 --> 01:03:38.920
+ it's a good idea to actually go from a little bit lower
+
+01:03:38.920 --> 01:03:41.400
+ than the possible minimum to a little bit higher.
+
+01:03:41.400 --> 01:03:45.080
+ So that's why I say 0.5 to 5.5.

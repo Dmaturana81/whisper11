@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:43:44.640 --> 00:43:45.880
+ works very well.
+
+00:43:45.880 --> 00:43:49.120
+ If you're a lot of people in Python or less familiar with that,
+
+00:43:49.120 --> 00:43:51.760
+ it maybe comes more from other things.
+
+00:43:51.760 --> 00:43:54.080
+ So that's why you'll see me using stuff like math
+
+00:43:54.080 --> 00:43:56.400
+ and stuff quite a lot.
+
+00:43:56.400 --> 00:43:59.760
+ All right, so a data block is the key thing
+
+00:43:59.760 --> 00:44:01.880
+ you need to know about if you're going to know

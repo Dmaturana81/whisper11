@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:22:58.440 --> 00:23:01.360
+ of breast cancer patients by looking
+
+00:23:01.360 --> 00:23:04.920
+ at their histopathology images slides.
+
+00:23:04.920 --> 00:23:08.360
+ Now, so this is what I would call a classic machine learning
+
+00:23:08.360 --> 00:23:09.600
+ approach.
+
+00:23:09.600 --> 00:23:13.040
+ And I spoke to the senior author of this, Daphne Collar.
+
+00:23:13.040 --> 00:23:15.080
+ And I asked her why they didn't use deep learning.

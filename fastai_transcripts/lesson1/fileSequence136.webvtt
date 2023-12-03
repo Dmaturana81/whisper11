@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:33:59.520 --> 00:34:02.720
+ Jupyter Notebook is the environment in which you
+
+00:34:02.720 --> 00:34:08.920
+ will be doing most of your computing.
+
+00:34:08.920 --> 00:34:16.920
+ It's a web based application, which is extremely popular

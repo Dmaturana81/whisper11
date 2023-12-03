@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:49:17.600 --> 00:49:20.280
+ So at the end of all this, we've got an object called dls,
+
+00:49:20.280 --> 00:49:21.880
+ it's down for data loaders.
+
+00:49:21.880 --> 00:49:28.280
+ And that contains iterators that PyTorch can run through
+
+00:49:28.280 --> 00:49:32.640
+ to grab batches of randomly split out,

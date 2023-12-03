@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:56:26.960 --> 00:56:30.120
+ to solve it not amazingly well, but pretty well.
+
+00:56:30.120 --> 00:56:33.040
+ If I had trained it for another two minutes,
+
+00:56:33.040 --> 00:56:35.680
+ it'd probably be close to perfect.
+
+00:56:35.680 --> 00:56:37.280
+ So this is called segmentation.
+
+00:56:37.280 --> 00:56:42.640
+ Now, you'll see that there's very, very little data required,
+
+00:56:42.640 --> 00:56:45.800
+ and sorry, very little code required.

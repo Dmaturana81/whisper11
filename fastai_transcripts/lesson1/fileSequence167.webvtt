@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:41:45.480 --> 00:41:49.440
+ OK, so the main thing I wanted to tell you about
+
+00:41:49.440 --> 00:41:51.400
+ was this data block command.
+
+00:41:51.400 --> 00:41:54.040
+ So the data block is the key thing
+
+00:41:54.040 --> 00:41:57.120
+ that you're going to want to get familiar with as deep learning
+
+00:41:57.120 --> 00:41:59.560
+ practitioners at the start of your journey.
+
+00:41:59.560 --> 00:42:04.440
+ Because the main thing you're going to be trying to figure out

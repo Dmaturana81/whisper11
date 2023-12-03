@@ -1,0 +1,8 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:55:59.640 --> 00:56:13.720
+ because this particular model I trained in about 20 seconds
+
+00:56:13.720 --> 00:56:16.440
+ using a tiny, tiny, tiny amount of data.

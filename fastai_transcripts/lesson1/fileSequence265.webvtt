@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:06:14.880 --> 01:06:19.240
+ The entire Fast.io library is actually written in notebooks.
+
+01:06:19.240 --> 01:06:20.640
+ So you might be surprised to discover
+
+01:06:20.640 --> 01:06:25.840
+ that if you go to Fast.io slash Fast.io,
+
+01:06:25.840 --> 01:06:32.920
+ that the source code for the entire library is notebooks.

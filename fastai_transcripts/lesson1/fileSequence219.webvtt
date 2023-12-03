@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:54:43.160 --> 00:54:45.160
+ A lot more than just image recognition.
+
+00:54:45.160 --> 00:54:46.840
+ Well, even within computer vision,
+
+00:54:46.840 --> 00:54:51.000
+ there's a lot more than just image recognition.
+
+00:54:51.000 --> 00:54:58.640
+ For example, for example, there's
+
+00:54:58.640 --> 00:54:59.440
+ a segmentation.

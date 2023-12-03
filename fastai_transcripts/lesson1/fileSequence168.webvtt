@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:41:59.560 --> 00:42:04.440
+ Because the main thing you're going to be trying to figure out
+
+00:42:04.440 --> 00:42:08.560
+ is how do I get this data into my model?
+
+00:42:08.560 --> 00:42:09.840
+ Now that might surprise you.
+
+00:42:09.840 --> 00:42:12.120
+ You might be thinking we should be spending all of our time
+
+00:42:12.120 --> 00:42:14.600
+ talking about neural network architectures
+
+00:42:14.600 --> 00:42:18.720
+ and matrix modification and gradients and stuff like that.

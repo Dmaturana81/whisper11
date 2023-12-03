@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:57:42.920 --> 00:57:48.120
+ So the labels for segmentation, sorry, the codes.
+
+00:57:48.120 --> 00:57:50.520
+ So what does each code mean?
+
+00:57:50.520 --> 00:57:52.720
+ It's going to be this text file.
+
+00:57:52.720 --> 00:57:56.080
+ But you can see the basic information we're providing
+
+00:57:56.080 --> 00:57:58.600
+ is very, very similar, regardless of whether we're
+
+00:57:58.600 --> 00:58:02.320
+ doing segmentation or object recognition.

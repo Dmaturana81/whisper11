@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:20:43.840 --> 01:20:47.040
+ classifying satellite imagery into what city it's probably
+
+01:20:47.040 --> 01:20:48.280
+ a picture of.
+
+01:20:48.280 --> 01:20:52.560
+ Amazingly accurate, actually, 85% with 110 classes.
+
+01:20:52.560 --> 01:20:58.400
+ Panama City bus classifier, Batic cloth classifier.
+
+01:20:58.400 --> 01:21:02.200
+ This one, very practically important,

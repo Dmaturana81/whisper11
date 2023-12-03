@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:40:01.040 --> 00:40:07.640
+ So to use an external library, we use import
+
+00:40:07.640 --> 00:40:11.280
+ to import a symbol from a library.
+
+00:40:11.280 --> 00:40:13.720
+ Fast di has a lot of libraries we provide.
+
+00:40:13.720 --> 00:40:15.600
+ They generally start with fast something.

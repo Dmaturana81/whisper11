@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:01:44.960 --> 01:01:46.800
+ The interesting thing about collaborative filtering
+
+01:01:46.800 --> 01:01:48.400
+ is that when we say similar users,
+
+01:01:48.400 --> 01:01:52.640
+ we're not referring to similar demographically,
+
+01:01:52.640 --> 01:01:58.080
+ but similar in the sense of people who liked the same kinds
+
+01:01:58.080 --> 01:02:00.400
+ of products.

@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:53:44.400 --> 00:53:49.280
+ And so this is how you would then deploy your model.
+
+00:53:49.280 --> 00:53:53.720
+ So in the code you have whatever it needs to do.
+
+00:53:53.720 --> 00:53:57.600
+ So in this particular case, this person
+
+00:53:57.600 --> 00:54:01.240
+ had some reason that he needs the app to check

@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:39:43.600 --> 00:39:46.720
+ languages you might be familiar with.
+
+00:39:46.720 --> 00:39:49.520
+ And I'm also taking advantage of a lot of libraries.
+
+00:39:49.520 --> 00:39:52.280
+ So fast di provides a lot of convenient things for you.
+
+00:39:54.880 --> 00:39:56.560
+ So I got to import.

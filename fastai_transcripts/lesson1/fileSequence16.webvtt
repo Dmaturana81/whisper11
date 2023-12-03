@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:03:57.120 --> 00:04:00.560
+ to be no bigger than 400 pixels on a side,
+
+00:04:00.560 --> 00:04:02.720
+ just because we don't need particularly big ones.
+
+00:04:02.720 --> 00:04:04.520
+ It takes a surprisingly large amount of time
+
+00:04:04.520 --> 00:04:06.760
+ to just recompute it open an image.
+
+00:04:06.760 --> 00:04:11.040
+ OK, so we've now got 200 of each.
+
+00:04:11.040 --> 00:04:14.320
+ I find when I download images, I often get a few broken ones.
+
+00:04:14.320 --> 00:04:16.560
+ And if you try and train a model with broken images,

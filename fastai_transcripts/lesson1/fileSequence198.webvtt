@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:49:28.280 --> 00:49:32.640
+ to grab batches of randomly split out,
+
+00:49:32.640 --> 00:49:35.360
+ training images to train the model with,
+
+00:49:35.360 --> 00:49:39.680
+ and validation images to test the model with.
+
+00:49:39.680 --> 00:49:42.680
+ So now we need a model.
+
+00:49:42.680 --> 00:49:46.400
+ The critical concept here in Fast.AI is called a learner.

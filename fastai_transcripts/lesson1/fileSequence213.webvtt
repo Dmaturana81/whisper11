@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:53:13.680 --> 00:53:21.560
+ After a few seconds, it's 100% accurate.
+
+00:53:21.560 --> 00:53:23.880
+ So we now have a learner.
+
+00:53:23.880 --> 00:53:27.720
+ And this learner has started with a pre trained model.
+
+00:53:27.720 --> 00:53:29.640
+ It's been fine tuned for the purpose
+
+00:53:29.640 --> 00:53:35.600
+ of recognizing bird pictures from forest pictures.

@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:30:57.280 --> 00:31:00.760
+ researchers, the majority have now shifted to PyTorch.
+
+00:31:00.760 --> 00:31:04.440
+ And I mentioned this because what people use in research
+
+00:31:04.440 --> 00:31:06.960
+ is a very strong leading indicator of what's
+
+00:31:06.960 --> 00:31:08.600
+ going to happen in industry, because this
+
+00:31:08.600 --> 00:31:11.360
+ is where all the new algorithms are going to come out.
+
+00:31:11.360 --> 00:31:14.200
+ This is where all the papers are going to be written about.
+
+00:31:14.200 --> 00:31:18.640
+ It's going to be increasingly difficult to use TensorFlow.

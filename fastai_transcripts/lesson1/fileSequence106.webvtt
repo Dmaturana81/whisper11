@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:26:29.560 --> 00:26:31.000
+ the features it can find are.
+
+00:26:31.000 --> 00:26:33.080
+ And so you can imagine that trying to code these things
+
+00:26:33.080 --> 00:26:37.040
+ by hand would be insanely difficult
+
+00:26:37.040 --> 00:26:40.280
+ and you wouldn't know even what to encode by hand.
+
+00:26:40.280 --> 00:26:44.440
+ So what we're going to learn is how neural networks do this
+
+00:26:44.440 --> 00:26:45.480
+ automatically.

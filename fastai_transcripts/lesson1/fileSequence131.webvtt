@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:32:42.840 --> 00:32:48.120
+ Particularly with Fast.AI, the code you don't write
+
+00:32:48.120 --> 00:32:52.400
+ is code that we've basically found best practices for you.
+
+00:32:52.400 --> 00:32:56.000
+ So when you use the code that we've provided for you,
+
+00:32:56.000 --> 00:32:59.200
+ you're generally fine to get better results.
+
+00:32:59.200 --> 00:33:04.960
+ So Fast.AI has been a really popular library,

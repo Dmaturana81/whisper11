@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:49:59.160 --> 00:50:05.400
+ The data, which is the data loaders object, and a model.
+
+00:50:05.400 --> 00:50:11.080
+ And so the model is going to be the actual neural network
+
+00:50:11.080 --> 00:50:12.680
+ function that you want to pass in.
+
+00:50:12.680 --> 00:50:15.560
+ And as I said, there's a relatively small number

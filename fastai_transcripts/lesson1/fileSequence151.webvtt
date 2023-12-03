@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:37:44.440 --> 00:37:48.080
+ because it really explains to you what to do.
+
+00:37:48.080 --> 00:37:50.280
+ One thing to point out is that sometimes you'll
+
+00:37:50.280 --> 00:37:53.400
+ see me use cells with an exclamation mark at the start.
+
+00:37:53.400 --> 00:37:54.840
+ That's not Python.
+
+00:37:54.840 --> 00:37:57.800
+ That's a bash shell command.
+
+00:37:57.800 --> 00:37:59.720
+ So that's what the exclamation mark means.

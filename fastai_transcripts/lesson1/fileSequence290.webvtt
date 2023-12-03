@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:12:30.560 --> 01:12:35.920
+ But the program has been replaced with something
+
+01:12:35.920 --> 01:12:37.600
+ called a model.
+
+01:12:37.600 --> 01:12:39.640
+ And we don't just have inputs now.
+
+01:12:39.640 --> 01:12:43.640
+ We now also have weights, which are also called parameters.
+
+01:12:43.640 --> 01:12:45.040
+ And the key thing is this.

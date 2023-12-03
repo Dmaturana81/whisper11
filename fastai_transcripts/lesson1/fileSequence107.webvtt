@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:26:44.440 --> 00:26:45.480
+ automatically.
+
+00:26:45.480 --> 00:26:48.640
+ But this is the key difference of why we can now
+
+00:26:48.640 --> 00:26:51.360
+ do things that previously we just didn't even
+
+00:26:51.360 --> 00:26:52.920
+ conceive of as possible.
+
+00:26:52.920 --> 00:26:57.680
+ Because now we don't have to hand code the features we look for.
+
+00:26:57.680 --> 00:27:01.680
+ They can all be learned.

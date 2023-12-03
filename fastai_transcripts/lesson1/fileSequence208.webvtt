@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:51:57.560 --> 00:52:01.040
+ Well, the reason we can do this so fast
+
+00:52:01.040 --> 00:52:06.320
+ is because somebody else has already trained this model
+
+00:52:06.320 --> 00:52:10.120
+ to recognize over 1 million images of over 1,000 different
+
+00:52:10.120 --> 00:52:14.160
+ types, something called the ImageNet Dataset.
+
+00:52:14.160 --> 00:52:18.760
+ And they then made those weights available,

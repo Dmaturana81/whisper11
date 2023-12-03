@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:00:13.320 --> 01:00:18.000
+ than $50,000 in salary for different districts
+
+01:00:18.000 --> 01:00:20.240
+ based on demographic information in each district.
+
+01:00:23.720 --> 01:00:28.080
+ So to build a model for that data loaders,
+
+01:00:28.080 --> 01:00:32.160
+ we do as always something underscore learner.

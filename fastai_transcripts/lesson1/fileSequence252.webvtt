@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:02:58.640 --> 01:03:00.400
+ And so again, you can see ShowBatch.
+
+01:03:00.400 --> 01:03:01.320
+ So use ShowBatch.
+
+01:03:01.320 --> 01:03:05.080
+ You should get back some useful visualization of your data
+
+01:03:05.080 --> 01:03:06.800
+ regardless of what kind of data it is.
+
+01:03:10.560 --> 01:03:14.480
+ And so again, we create a learner.
+
+01:03:14.480 --> 01:03:16.680
+ This time it's a collaborative filtering learner.

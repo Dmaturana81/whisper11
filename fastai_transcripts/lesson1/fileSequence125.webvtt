@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:31:14.200 --> 00:31:18.640
+ It's going to be increasingly difficult to use TensorFlow.
+
+00:31:18.640 --> 00:31:21.440
+ We've been using PyTorch since before it came out,
+
+00:31:21.440 --> 00:31:23.640
+ before the initial release, because we knew just
+
+00:31:23.640 --> 00:31:27.400
+ from technical fundamentals, it was far better.
+
+00:31:27.400 --> 00:31:30.680
+ So this course has been using PyTorch for a long time.

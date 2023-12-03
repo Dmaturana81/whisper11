@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:11:11.360 --> 01:11:15.240
+ So let's kind of take a step back and talk
+
+01:11:15.240 --> 01:11:21.440
+ about what's going on in these models.
+
+01:11:21.440 --> 01:11:27.120
+ And I'm going to describe the basic idea of machine learning
+
+01:11:27.120 --> 01:11:30.880
+ largely as it was described by Arthur Samuel in the late 50s

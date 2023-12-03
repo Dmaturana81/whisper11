@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:46:42.320 --> 00:46:46.600
+ that are going to run on every item, on every image in this case.
+
+00:46:46.600 --> 00:46:50.960
+ And we're saying, OK, we want you to resize each of them
+
+00:46:50.960 --> 00:46:54.600
+ to being 192 by 192 pixels.
+
+00:46:54.600 --> 00:46:55.920
+ There's two ways you can resize.
+
+00:46:55.920 --> 00:46:58.720
+ You can either crop out a piece in the middle,
+
+00:46:58.720 --> 00:47:01.480
+ or you can squish it.

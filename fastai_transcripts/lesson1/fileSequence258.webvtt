@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:04:27.760 --> 01:04:30.800
+ you can always call show results and get something sensible.
+
+01:04:30.800 --> 01:04:31.880
+ So in this case, it's going to show
+
+01:04:31.880 --> 01:04:34.600
+ a few examples of users and movies.
+
+01:04:34.600 --> 01:04:37.680
+ Here's the actual rating that user gave that movie.
+
+01:04:37.680 --> 01:04:42.160
+ And here's the rating that the model predicted.
+
+01:04:42.160 --> 01:04:44.360
+ OK, so apparently a lot of people on the forum
+
+01:04:44.360 --> 01:04:51.120
+ are asking how I'm turning this notebook into a presentation.

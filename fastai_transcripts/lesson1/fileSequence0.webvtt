@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:00:00.000 --> 00:00:06.600
+ Welcome to practical deep learning for coders lesson one.
+
+00:00:06.600 --> 00:00:11.780
+ This is version five of this course.
+
+00:00:11.780 --> 00:00:14.520
+ And it's the first do one we've done in two years.
+
+00:00:14.520 --> 00:00:17.960
+ So we've got a lot of cool things to cover.

@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:27:57.960 --> 00:28:01.760
+ said that they did something very similar to take time series
+
+00:28:01.760 --> 00:28:06.400
+ and turn them into pictures and then use image classifiers.
+
+00:28:06.400 --> 00:28:09.440
+ Another of our students created pictures
+
+00:28:09.440 --> 00:28:14.320
+ from mouse movements, from users of a computer system.
+
+00:28:14.320 --> 00:28:18.040
+ So the clicks became dots and the movements became lines.

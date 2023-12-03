@@ -1,0 +1,26 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:58:59.240 --> 00:59:02.360
+ that you might want to use, all the ones that are in the book,
+
+00:59:02.360 --> 00:59:04.360
+ or lots of data sets that are kind of widely used
+
+00:59:04.360 --> 00:59:06.480
+ in learning and research.
+
+00:59:06.480 --> 00:59:08.880
+ So that makes life nice and easy for you.
+
+00:59:08.880 --> 00:59:10.360
+ So again, we've got to create data loaders.
+
+00:59:10.360 --> 00:59:12.480
+ But this time is tabular data loaders.
+
+00:59:12.480 --> 00:59:14.960
+ But we provide pretty similar kind of information
+
+00:59:14.960 --> 00:59:16.840
+ to what we have before.

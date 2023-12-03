@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:50:29.960 --> 00:50:33.360
+ is that we integrate a wonderful library
+
+00:50:33.360 --> 00:50:36.960
+ by Ross Weitman called Tim, the PyTorch image models, which
+
+00:50:36.960 --> 00:50:39.120
+ is the largest collection of computer vision models
+
+00:50:39.120 --> 00:50:40.400
+ in the world.
+
+00:50:40.400 --> 00:50:44.040
+ And at this point, Fast.AI is the first and only framework
+
+00:50:44.040 --> 00:50:45.040
+ to integrate this.

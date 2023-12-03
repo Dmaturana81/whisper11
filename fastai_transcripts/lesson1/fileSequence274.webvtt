@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:08:29.120 --> 01:08:30.840
+ some of the first open source software
+
+01:08:30.840 --> 01:08:33.800
+ that would run on GPUs.
+
+01:08:33.800 --> 01:08:36.080
+ But yeah, I mean, despite the fact that today there's
+
+01:08:36.080 --> 01:08:37.520
+ a lot of people talking about deep learning,
+
+01:08:37.520 --> 01:08:39.560
+ we're just scratching the surface.
+
+01:08:39.560 --> 01:08:41.680
+ Every time, pretty much somebody says to me,
+
+01:08:41.680 --> 01:08:45.160
+ I work in domain X, and I thought I might try deep learning

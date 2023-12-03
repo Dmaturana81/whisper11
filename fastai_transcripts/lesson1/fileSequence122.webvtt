@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:30:29.840 --> 00:30:40.640
+ And in research repositories amongst the top papers,
+
+00:30:40.640 --> 00:30:44.720
+ TensorFlow is a tiny minority now compared to PyTorch.
+
+00:30:44.720 --> 00:30:48.440
+ This is also great research that's come out from Ryan Ocona.

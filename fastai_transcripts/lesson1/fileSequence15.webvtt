@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:03:43.680 --> 00:03:45.960
+ sounds like a good starting point.
+
+00:03:45.960 --> 00:03:49.440
+ So I go through each of forest and bird,
+
+00:03:49.440 --> 00:03:53.840
+ and I search for forest photo and bird photo,
+
+00:03:53.840 --> 00:03:57.120
+ download images, and then resize them
+
+00:03:57.120 --> 00:04:00.560
+ to be no bigger than 400 pixels on a side,

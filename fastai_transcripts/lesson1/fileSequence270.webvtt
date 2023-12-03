@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:07:27.400 --> 01:07:31.600
+ every time we change one of our notebooks,
+
+01:07:31.600 --> 01:07:37.080
+ hundreds of tests get run automatically in parallel.
+
+01:07:37.080 --> 01:07:40.800
+ And if there's any issues, we will find out about it.
+
+01:07:40.800 --> 01:07:42.080
+ So yeah, notebooks are great.
+
+01:07:42.080 --> 01:07:51.520
+ And RISE is a really nice way to do slides in notebooks.

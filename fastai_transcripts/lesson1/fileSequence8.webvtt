@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:01:57.680 --> 00:02:00.960
+ that can download pictures of birds.
+
+00:02:00.960 --> 00:02:03.320
+ Now, we're going to need to build a system that
+
+00:02:03.320 --> 00:02:06.720
+ can recognize things that are birds versus things
+
+00:02:06.720 --> 00:02:08.320
+ that aren't birds from photos.
+
+00:02:08.320 --> 00:02:13.520
+ Now, of course, computers need numbers to work with.
+
+00:02:13.520 --> 00:02:17.400
+ But luckily, images are made of numbers.

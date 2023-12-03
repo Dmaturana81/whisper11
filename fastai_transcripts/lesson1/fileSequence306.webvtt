@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:16:27.800 --> 01:16:31.080
+ So they're not the kinds of normal functions you
+
+01:16:31.080 --> 01:16:35.720
+ do in year eight math, but they are computable functions.
+
+01:16:35.720 --> 01:16:41.560
+ And so therefore, if we can just create this step,
+
+01:16:41.560 --> 01:16:45.520
+ then and use the neural network as a model,

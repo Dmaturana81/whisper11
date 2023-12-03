@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:02:57.800 --> 00:03:07.080
+ is actually 256 by 171 by three numbers between 0 and 255,
+
+00:03:07.080 --> 00:03:11.120
+ representing the amount of red, green, and blue on each pixel.
+
+00:03:11.120 --> 00:03:14.640
+ So that's going to be an input to our program.
+
+00:03:14.640 --> 00:03:16.840
+ It's going to try and figure out whether this is a picture

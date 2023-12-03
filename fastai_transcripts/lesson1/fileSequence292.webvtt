@@ -1,0 +1,29 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+01:12:58.160 --> 01:13:01.920
+ multiplies them together by the weights, by one set of weights,
+
+01:13:01.920 --> 01:13:03.240
+ and adds them up.
+
+01:13:03.240 --> 01:13:05.240
+ And then it does that again for a second set of weights
+
+01:13:05.240 --> 01:13:05.920
+ and adds them up.
+
+01:13:05.920 --> 01:13:09.840
+ It does it again for a third set of weights and adds them up,
+
+01:13:09.840 --> 01:13:09.800
+ and so forth.
+
+01:13:09.800 --> 01:13:11.840
+ It then takes all the negative numbers
+
+01:13:11.840 --> 01:13:14.840
+ and replaces them with zeros.
+
+01:13:14.840 --> 01:13:18.160
+ And then it takes those as inputs to a next layer.

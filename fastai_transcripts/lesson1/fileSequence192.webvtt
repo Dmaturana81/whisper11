@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:47:56.760 --> 00:48:00.720
+ of a batch of data that you would be passing into the model.
+
+00:48:00.720 --> 00:48:02.680
+ And so you can see show batch gives you
+
+00:48:02.680 --> 00:48:06.960
+ tells you two things, the input, which is the picture,
+
+00:48:06.960 --> 00:48:08.640
+ and the label.
+
+00:48:08.640 --> 00:48:14.240
+ And remember, the label came by calling that function.
+
+00:48:14.240 --> 00:48:18.920
+ So when you come to building your own models,

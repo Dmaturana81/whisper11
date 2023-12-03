@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:55:13.560 --> 00:55:19.480
+ of road scenes, and we color in every pixel according
+
+00:55:19.480 --> 00:55:21.520
+ to what is it.
+
+00:55:21.520 --> 00:55:24.320
+ So in this case, we've got brown as cars,
+
+00:55:24.320 --> 00:55:30.440
+ blue as fences, I guess, red as buildings, or brown.

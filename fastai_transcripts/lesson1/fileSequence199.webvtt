@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:49:42.680 --> 00:49:46.400
+ The critical concept here in Fast.AI is called a learner.
+
+00:49:46.400 --> 00:49:50.160
+ A learner is something which combines a model,
+
+00:49:50.160 --> 00:49:52.440
+ which is that is the actual neural network function
+
+00:49:52.440 --> 00:49:56.360
+ we'll be training, and the data we use to train it with.
+
+00:49:56.360 --> 00:49:59.160
+ And that's why you have to pass in two things.
+
+00:49:59.160 --> 00:50:05.400
+ The data, which is the data loaders object, and a model.

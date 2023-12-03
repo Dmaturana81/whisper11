@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:53:29.640 --> 00:53:35.600
+ of recognizing bird pictures from forest pictures.
+
+00:53:35.600 --> 00:53:39.760
+ So you can now call dot predict on it.
+
+00:53:39.760 --> 00:53:44.400
+ And dot predict, you pass in an image.
+
+00:53:44.400 --> 00:53:49.280
+ And so this is how you would then deploy your model.

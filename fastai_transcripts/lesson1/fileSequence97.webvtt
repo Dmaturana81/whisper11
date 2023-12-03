@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:24:14.240 --> 00:24:19.760
+ And so what actually happened was, in I think it was 2015,
+
+00:24:19.760 --> 00:24:24.440
+ Matt Zyla and Rob Fergus took a trained neural network
+
+00:24:24.440 --> 00:24:27.960
+ and they looked inside it to see what it had learned.
+
+00:24:27.960 --> 00:24:33.480
+ So we don't give it features, we ask it to learn features.

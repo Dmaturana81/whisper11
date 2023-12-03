@@ -1,0 +1,14 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:30:44.720 --> 00:30:48.440
+ This is also great research that's come out from Ryan Ocona.
+
+00:30:48.440 --> 00:30:54.440
+ He also discovered that the majority of people
+
+00:30:54.440 --> 00:30:57.280
+ that were doing TensorFlow in 2018,
+
+00:30:57.280 --> 00:31:00.760
+ researchers, the majority have now shifted to PyTorch.

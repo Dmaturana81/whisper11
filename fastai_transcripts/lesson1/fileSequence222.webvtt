@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:55:24.320 --> 00:55:30.440
+ blue as fences, I guess, red as buildings, or brown.
+
+00:55:30.440 --> 00:55:33.440
+ And so on the left here, some photos
+
+00:55:33.440 --> 00:55:36.200
+ that somebody has already gone through
+
+00:55:36.200 --> 00:55:39.440
+ and classified every pixel of every one of these images,
+
+00:55:39.440 --> 00:55:43.040
+ according to what that pixel is a pixel of.
+
+00:55:43.040 --> 00:55:49.440
+ And then on the right is what our model is guessing.

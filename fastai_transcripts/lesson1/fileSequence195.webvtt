@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:48:42.240 --> 00:48:46.320
+ So for example, here's a whole data block tutorial.
+
+00:48:46.320 --> 00:48:48.280
+ And there's lots and lots of examples.
+
+00:48:48.280 --> 00:48:50.520
+ So hopefully you can start out by finding something
+
+00:48:50.520 --> 00:48:53.960
+ that's similar to what you want to do
+
+00:48:53.960 --> 00:48:56.480
+ and see how we did it.
+
+00:48:56.480 --> 00:49:03.240
+ But then of course, there's also the underlying API information.

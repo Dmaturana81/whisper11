@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:32:59.200 --> 00:33:04.960
+ So Fast.AI has been a really popular library,
+
+00:33:04.960 --> 00:33:08.360
+ and it's very widely used in industry, in academia,
+
+00:33:08.360 --> 00:33:10.400
+ and in teaching.
+
+00:33:10.400 --> 00:33:13.120
+ And as we go through this course,
+
+00:33:13.120 --> 00:33:15.840
+ we'll be seeing more and more pure PyTorch

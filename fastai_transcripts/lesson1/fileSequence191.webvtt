@@ -1,0 +1,17 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:47:42.040 --> 00:47:46.680
+ We call it a batch or a mini batch.
+
+00:47:46.680 --> 00:47:52.760
+ And so when we say show batch, that's actually
+
+00:47:52.760 --> 00:47:53.920
+ a very specific word.
+
+00:47:53.920 --> 00:47:56.760
+ And deep learning, it's saying show me an example
+
+00:47:56.760 --> 00:48:00.720
+ of a batch of data that you would be passing into the model.

@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:44:57.160 --> 00:45:00.800
+ What am I actually going to be looking at to train from?
+
+00:45:00.800 --> 00:45:02.200
+ This is a function.
+
+00:45:02.200 --> 00:45:03.800
+ In fact, you might have noticed, if you
+
+00:45:03.800 --> 00:45:08.200
+ were looking carefully, that we use this function here.
+
+00:45:08.200 --> 00:45:12.960
+ It's a function which returns a list of all of the image
+
+00:45:12.960 --> 00:45:16.600
+ files in a path based on extension.

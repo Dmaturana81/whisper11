@@ -1,0 +1,20 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:52:27.760 --> 00:52:30.440
+ we will download those weights for you
+
+00:52:30.440 --> 00:52:33.280
+ so that you don't start with a random network that
+
+00:52:33.280 --> 00:52:34.520
+ can't do anything.
+
+00:52:34.520 --> 00:52:38.240
+ You actually start with a network that can do an awful lot.
+
+00:52:38.240 --> 00:52:41.440
+ And so then something that FastAI has that's unique
+
+00:52:41.440 --> 00:52:45.000
+ is this fine tune method, which what it does

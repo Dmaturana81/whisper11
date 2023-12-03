@@ -1,0 +1,23 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:27:43.160 --> 00:27:45.160
+ they would try classifying sounds.
+
+00:27:45.160 --> 00:27:48.600
+ And so they basically took sounds and created pictures
+
+00:27:48.600 --> 00:27:50.680
+ from their waveforms.
+
+00:27:50.680 --> 00:27:52.840
+ And then they used an image recognizer on that.
+
+00:27:52.840 --> 00:27:56.240
+ And they got a state of the art result, by the way.
+
+00:27:56.240 --> 00:27:57.960
+ Another of our students on the forum
+
+00:27:57.960 --> 00:28:01.760
+ said that they did something very similar to take time series
