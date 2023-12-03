@@ -8,6 +8,8 @@ openai-whisper = "*"
 pytube3 = "*"
 tqdm = "*"
 speechbrain = "*"
+fastcore = "*"
+google = "*"
 
 [dev-packages]
 
