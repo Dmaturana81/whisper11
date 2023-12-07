@@ -10,6 +10,13 @@ tqdm = "*"
 speechbrain = "*"
 fastcore = "*"
 google = "*"
+gradio-client = "*"
+pyannote-audio = "*"
+google-cloud = "*"
+google-cloud-speech = "*"
+onnx = "*"
+onnxruntime = "*"
+pydub = "*"
 
 [dev-packages]
 
