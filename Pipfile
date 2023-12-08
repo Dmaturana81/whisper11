@@ -17,6 +17,7 @@ google-cloud-speech = "*"
 onnx = "*"
 onnxruntime = "*"
 pydub = "*"
+elevenlabs = "*"
 
 [dev-packages]
 
